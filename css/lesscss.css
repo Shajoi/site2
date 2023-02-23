@@ -1,0 +1,21 @@
+footer{
+    text-align: center;
+    color: gray;
+}
+html, body {
+    height: 100%;
+}
+html {
+    display: table;
+    margin: auto;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: deepskyblue;
+}
